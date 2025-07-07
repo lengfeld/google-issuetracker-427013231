@@ -1,0 +1,180 @@
+REPO: kernel/build
+Android 15.0.0 release 0.2
+REPO: kernel/common
+Android 15.0.0 release 0.2
+REPO: kernel/common-modules/virtual-device
+Android 15.0.0 release 0.2
+REPO: kernel/configs
+Android 15.0.0 release 0.2
+REPO: kernel/devices/google/akita
+Android 16 release 0.2
+REPO: kernel/devices/google/bluejay
+Android 15.0.0 release 0.2
+REPO: kernel/devices/google/caimito
+Android 16 release 0.2
+REPO: kernel/devices/google/comet
+Android 16 release 0.2
+REPO: kernel/devices/google/common
+Android 16 release 0.2
+REPO: kernel/devices/google/felix
+Android 15.0.0 release 0.2
+REPO: kernel/devices/google/gs101
+Android 16 release 0.2
+REPO: kernel/devices/google/gs201
+Android 16 release 0.2
+REPO: kernel/devices/google/lynx
+Android 15.0.0 release 0.2
+REPO: kernel/devices/google/pantah
+Android 16 release 0.2
+REPO: kernel/devices/google/raviole
+Android 16 release 0.2
+REPO: kernel/devices/google/shusky
+Android 16 release 0.2
+REPO: kernel/devices/google/tangorpro
+Android 15.0.0 release 0.2
+REPO: kernel/devices/google/tegu
+Android 16 release 0.2
+REPO: kernel/devices/google/zuma
+Android 16 release 0.2
+REPO: kernel/devices/google/zumapro
+Android 16 release 0.2
+REPO: kernel/google-modules/amplifiers
+Android 15.0.0 release 0.2
+REPO: kernel/google-modules/aoc
+Android 15.0.0 release 0.2
+REPO: kernel/google-modules/aoc-ipc
+Android 15.0.0 release 0.2
+REPO: kernel/google-modules/bluetooth/broadcom
+Android 15.0.0 release 0.2
+REPO: kernel/google-modules/bluetooth/qcom
+Android 15.0.0 release 0.2
+REPO: kernel/google-modules/bluetooth/synaptics
+Android 15.0.0 release 0.2
+REPO: kernel/google-modules/bms
+Android 15.0.0 release 0.2
+REPO: kernel/google-modules/display
+Android 15.0.0 release 0.2
+REPO: kernel/google-modules/display/common
+Android 16 release 0.2
+REPO: kernel/google-modules/display/panels/caimito
+Android 16 release 0.2
+REPO: kernel/google-modules/display/panels/tegu
+Android 16 release 0.2
+REPO: kernel/google-modules/display/samsung
+Android 16 release 0.2
+REPO: kernel/google-modules/edgetpu/abrolhos
+Android 15.0.0 release 0.2
+REPO: kernel/google-modules/edgetpu/janeiro
+Android 15.0.0 release 0.2
+REPO: kernel/google-modules/edgetpu/rio
+Android 16 release 0.2
+REPO: kernel/google-modules/fingerprint/fpc
+Android 15.0.0 release 0.2
+REPO: kernel/google-modules/fingerprint/goodix
+Android 15.0.0 release 0.2
+REPO: kernel/google-modules/fingerprint/qcom/qfs4008
+Android 16 release 0.2
+REPO: kernel/google-modules/gps/broadcom/bcm47765
+Android 16 release 0.2
+REPO: kernel/google-modules/gpu
+Android 15.0.0 release 0.2
+REPO: kernel/google-modules/gxp/gs201
+Android 15.0.0 release 0.2
+REPO: kernel/google-modules/gxp/zuma
+Android 16 release 0.2
+REPO: kernel/google-modules/hdcp/samsung
+Android 16 release 0.2
+REPO: kernel/google-modules/lwis
+Android 15.0.0 release 0.2
+REPO: kernel/google-modules/nfc
+Android 15.0.0 release 0.2
+REPO: kernel/google-modules/perf
+Android 16 release 0.2
+REPO: kernel/google-modules/power/mitigation
+Android 16 release 0.2
+REPO: kernel/google-modules/power/reset
+Android 15.0.0 release 0.2
+REPO: kernel/google-modules/radio/samsung/s5300
+Android 16 release 0.2
+REPO: kernel/google-modules/radio/samsung/s5400
+Android 16 release 0.2
+REPO: kernel/google-modules/sensors/hall_sensor
+Android 15.0.0 release 0.2
+REPO: kernel/google-modules/soc/gs
+Android 16 release 0.2
+REPO: kernel/google-modules/touch/common
+Android 15.0.0 release 0.2
+REPO: kernel/google-modules/touch/focaltech_touch
+Android 15.0.0 release 0.2
+REPO: kernel/google-modules/touch/fts_touch
+Android 15.0.0 release 0.2
+REPO: kernel/google-modules/touch/goodix_touch
+Android 15.0.0 release 0.2
+REPO: kernel/google-modules/touch/himax_touch
+Android 15.0.0 release 0.2
+REPO: kernel/google-modules/touch/novatek_touch
+Android 15.0.0 release 0.2
+REPO: kernel/google-modules/touch/sec_touch
+Android 15.0.0 release 0.2
+REPO: kernel/google-modules/touch/synaptics_touch
+Android 15.0.0 release 0.2
+REPO: kernel/google-modules/trusty
+Android 16 release 0.2
+REPO: kernel/google-modules/typec
+Android 16 release 0.2
+REPO: kernel/google-modules/uwb-diags
+Android 15.0.0 release 0.2
+REPO: kernel/google-modules/uwb/qorvo/dw3000
+Android 15.0.0 release 0.2
+REPO: kernel/google-modules/uwb/qorvo/qm35
+Android 16 release 0.2
+REPO: kernel/google-modules/video/gchips
+Android 15.0.0 release 0.2
+REPO: kernel/google-modules/wlan/bcmdhd/bcm4383
+Android 16 release 0.2
+REPO: kernel/google-modules/wlan/bcmdhd/bcm4389
+Android 15.0.0 release 0.2
+REPO: kernel/google-modules/wlan/bcmdhd/bcm4390
+Android 16 release 0.2
+REPO: kernel/google-modules/wlan/bcmdhd/bcm4398
+Android 16 release 0.2
+REPO: kernel/google-modules/wlan/qcom/wcn6740/cnss2
+Android 15.0.0 release 0.2
+REPO: kernel/google-modules/wlan/qcom/wcn6740/wlan
+Android 15.0.0 release 0.2
+REPO: kernel/google-modules/wlan/syna/dhd43752p
+Android 15.0.0 release 0.2
+REPO: kernel/google-modules/wlan/wlan_ptracker
+Android 15.0.0 release 0.2
+REPO: kernel/gs
+Android 15.0.0 release 0.2
+REPO: kernel/prebuilts/build-tools
+Android 15.0.0 release 0.2
+REPO: platform/build/bazel_common_rules
+Android 15.0.0 release 0.2
+REPO: platform/external/bazel-skylib
+Android 15.0.0 release 0.2
+REPO: platform/external/python/absl-py
+Android 16 release 0.2
+REPO: platform/external/stardoc
+Android 15.0.0 release 0.2
+REPO: platform/prebuilts/bazel/linux-x86_64
+Android 15.0.0 release 0.2
+REPO: platform/prebuilts/boot-artifacts
+Android 15.0.0 release 0.2
+REPO: platform/prebuilts/build-tools
+Android 15.0.0 release 0.2
+REPO: platform/prebuilts/clang/host/linux-x86
+Android 15.0.0 release 0.2
+REPO: platform/prebuilts/gas/linux-x86
+Android 15.0.0 release 0.2
+REPO: platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+Android 15.0.0 release 0.2
+REPO: platform/prebuilts/jdk/jdk11
+Android 15.0.0 release 0.2
+REPO: platform/prebuilts/misc
+Android 15.0.0 release 0.2
+REPO: platform/system/tools/mkbootimg
+Android 15.0.0 release 0.2
+REPO: toolchain/prebuilts/ndk/r23
+Android 16 release 0.2

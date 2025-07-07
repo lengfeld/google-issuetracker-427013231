@@ -1,0 +1,741 @@
+REPO: kernel/build
+object 3288d7ac659694818a76e0208383f9a78fb74e65
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390900 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNAAKCRDorT+BmrEO
+eIa2AJ9IG+BOETQ0JMII8ezR3eTS1/BABgCgigXByHmxrIXFpFgqlCDnPGuNOjI=
+=Yi00
+-----END PGP SIGNATURE-----
+REPO: kernel/common
+object 28a6e1ad779ce4471e7084849280b569db5033e6
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390893 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgLQAKCRDorT+BmrEO
+eD3VAJ9TBphhOvwvUieL4vRmIlJAHp1C5ACdEOmVlsuNDzGLT9kTQ0YBTpUqXFQ=
+=2M1b
+-----END PGP SIGNATURE-----
+REPO: kernel/common-modules/virtual-device
+object 9b39747550f44621e28d766f566ca96855e00865
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390900 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNAAKCRDorT+BmrEO
+eLVwAJ4mAiJS+BfJBCPjSSnhKdNJ9k/KlQCeOaBj+6OEsp0ihnRuigV1wxxFMKc=
+=zkPi
+-----END PGP SIGNATURE-----
+REPO: kernel/configs
+object b3cc2bc03dab303c54a9ce1f709f8ee315eb311d
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390900 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNAAKCRDorT+BmrEO
+eO/sAJ9roSgVWUAN6qzR0qyx3ctzz/u95gCgha9yyOTyjBAhrjT5eW6z9JV5DF4=
+=e6Zn
+-----END PGP SIGNATURE-----
+REPO: kernel/devices/google/bluejay
+object 9b2e69733e259dccc55e73b7a6b8ab6b76215709
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390901 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNQAKCRDorT+BmrEO
+ePSBAJ9gll6h0rHhfYaoEyeCYsNgATu+sgCeKYLtnazexI9Rn7YOosIZixYVgbM=
+=EN//
+-----END PGP SIGNATURE-----
+REPO: kernel/devices/google/felix
+object 33d7f456c1492788b51b2aac3257f3cd85052234
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390901 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNQAKCRDorT+BmrEO
+eFIjAKCSOSsH4sbU3i5UaH8o3ZwUFBg8gwCfWRckCL5kND90pNMAARRD6Kz8uOI=
+=tjCk
+-----END PGP SIGNATURE-----
+REPO: kernel/devices/google/lynx
+object 01a06a90a0087de1686142f33085d2e35705961e
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390901 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNQAKCRDorT+BmrEO
+eIP2AKCJ4FEq2B6s7r1QL+nUvDd6PM8YegCfRNJ6sLlAmq0m2tGQv4TtegVRnsg=
+=aWW3
+-----END PGP SIGNATURE-----
+REPO: kernel/devices/google/tangorpro
+object fe1f895b8c385858cebcb3e95b5f7f68b8f0c380
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390901 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNQAKCRDorT+BmrEO
+eLKaAJ0U8cCm6CXZFgQnGJT0/RNdPKzcYgCdEAx43LRIx6c4mIf/ZalvbDqspos=
+=e8Jf
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/amplifiers
+object a1e01eb4bca3d79dd132e7393e21fd9e680f7b1a
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390901 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNQAKCRDorT+BmrEO
+eJ8gAKCSTRyrNKAKeks0B0S8EhURAHYdpQCcCwi2SEGT7s0hci++mPMZt77XYnw=
+=xlIK
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/aoc
+object a207cca5c0cee9e7897affcea3a4ed19060b5903
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390901 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNQAKCRDorT+BmrEO
+eFToAJ4qIxyTUwHJonGkb/JJzeV+no4xFACgik07ZD/gXTwBOZykR9n1RXG5CSI=
+=V0dq
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/aoc-ipc
+object 61ee5133742a424816388b809278de72671b2ad1
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390901 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNQAKCRDorT+BmrEO
+eFl7AJ9NrH72Uz1v7cXAFsciFiid+Px8BQCeJGP9Qyhy8byIMtEKOsUks5D17OI=
+=oVlG
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/bluetooth/broadcom
+object d6a4385da5e181e81d5b4bd75a4cd2d70e9c0a51
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390901 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNQAKCRDorT+BmrEO
+eJGsAJ41ZD0udHqTTjDmuJkVqJ6wz6WWwACfclFqCIEEzMFhNQrUahXS3S9DtIc=
+=HGwA
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/bluetooth/qcom
+object 2a7afea5d1c36b8e942228ca0643ab411defe4b1
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390901 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNQAKCRDorT+BmrEO
+eKw4AJwLUGN3c3w8ltGfuYsznHM/lt4A0gCfUEzqkJZg8DqCa2AS3DhzSjChYaI=
+=BQ57
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/bluetooth/synaptics
+object 8bbeebcf0065b6a718ee2e7dcb03654ed9639b91
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390902 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNgAKCRDorT+BmrEO
+eNM/AJ91b7OGJZRU5glW24Lqm1n6H1lEOACghrmtUx90AEjSVZVIv/1KnlaMeck=
+=ITtj
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/bms
+object 07e9f1715d3d61b4b0ea5317d2105fcb2eb7c3ab
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390902 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNgAKCRDorT+BmrEO
+eFI8AJ4n7uPxU2jL60XgXxI4ToOX8tv7YgCgkedamEO+W5RxqutaG8VzXXnO8Kw=
+=aLUk
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/display
+object 631ee003a376d392e89299b4421bc8c489519497
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390902 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNgAKCRDorT+BmrEO
+eJ6zAJ9dYV2IUm9DW3OnSA4wOjaTj8VsbQCfc4y1aXByrMgfjPCMcX+DXR4C9yM=
+=qp9f
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/edgetpu/abrolhos
+object 3979694200e499541ff868c7c9651b260e9ba374
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390902 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNgAKCRDorT+BmrEO
+eB4tAJ4/nTugD/f/w4DsdnhT2LUGhCiD1ACfQ5gSzt9qT/tXLISVAdVt84haS9E=
+=PpL+
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/edgetpu/janeiro
+object 61fdc1ee069cb023358360db6d02a2d24f4e0d24
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390902 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNgAKCRDorT+BmrEO
+eFmkAJ0QOJ91YjmjTCKyUf55rSFoeCmqkgCfbAjf9IACo6XlI9GLS+IMoeKIJKA=
+=4Rfv
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/fingerprint/fpc
+object 5c209fc2df8499782dc75cc2f6b684a1d5dcce58
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390902 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNgAKCRDorT+BmrEO
+eKvfAJ9NGGeIwhnI6vXohcoX1vjaV3sOGACfWURM1/cxRWwohld179WBzoe4cHQ=
+=uq/Y
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/fingerprint/goodix
+object c89b9dd0bef4b20ffdf3b3628617f97290bbc198
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390902 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNgAKCRDorT+BmrEO
+ePA+AJ9kyUtLSEurRzaKq/BmUVHxTDsMKwCeJTZz86T8L8CDcFncKuG57hg0DqA=
+=qL0b
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/gpu
+object 6c97ae32695dd25e804488a85c64cdf3720644b3
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390893 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgLQAKCRDorT+BmrEO
+eNBJAJ0YXVN+MFX8WNlenLkf6+nYgbz5PgCfcQlYn/xYUPi6qXLTquLvqF4TiO4=
+=a3we
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/gxp/gs201
+object 189ffbf1262a14f00c42cd248e49f43c5bab1be1
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390899 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgMwAKCRDorT+BmrEO
+eC9QAJ9/itQecS3ShKSdLKrWaEO7UP9atgCfWy9GENF07SzPRSMa6IWSa1b3Wrg=
+=FDWM
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/lwis
+object 38c763364c6ae92ffd5b66c289dfddcb0b165ea0
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390899 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgMwAKCRDorT+BmrEO
+eDDeAJsHTxiafsUVOIOIXfhkdtOb1IwbwQCcDVbNnW+LWKkYLRahdKZoHA8u4zI=
+=fWSg
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/misc
+object 34b23ad5680d2ec49c5d8dd5aaaacf75d0a19a6c
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390899 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgMwAKCRDorT+BmrEO
+eDSrAJ4qvsZBet2FZPh47rQvCSHWzS2x+ACeLsrvm1QgqLZDVk34fZvPl9N6lrs=
+=BTTV
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/nfc
+object 5a02f4f477ec3cc180bee0845e35f14a8253e143
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390899 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgMwAKCRDorT+BmrEO
+eLSqAJ94VvRVqMVCPExIyhu5WF+6w1L1ewCfYXLgU7zc+Hln7zBR6VSzaMbsWho=
+=SzhE
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/power/reset
+object 9b4bb088cf8f02bcebece637f0a1a6c33f3db29d
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390899 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgMwAKCRDorT+BmrEO
+eGV7AJ42lRu5V2v9YWh8qLZbXxcICfSukgCgj19YHAr2ElhPPwOLOknupg9AKoE=
+=r8Tj
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/sensors/hall_sensor
+object 6fe459c14fd910bc7f659ee4e98e68bf1c8bc35f
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390899 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgMwAKCRDorT+BmrEO
+eOkMAJ4+O7wua5DbOOHct/MVcB11uNOxEgCeMfbLPmg1UE0Bra2POkWWvrWf9Po=
+=t8d+
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/touch/common
+object 52d935b458baaafc039b2d0cf36ea64a02dcf94b
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390899 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgMwAKCRDorT+BmrEO
+eJwlAJ9PgGcO2DgOEd60Y/grD1lfKhtcPACfQevjKnM2Wbt7GrKbOlu8yL/SHYk=
+=zxs6
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/touch/focaltech_touch
+object b443f74299acd47017c7cebbc56195faf4f1a21c
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390899 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgMwAKCRDorT+BmrEO
+eCKGAJ4tCdVmNahMx5XHKi/xI17nolYMWwCeL9MDOT2hVkOm6d5JWWAxQtHZEc8=
+=7v/v
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/touch/fts_touch
+object 280e97e51c9d7bd38d8a6c3bf55ca8b1da152346
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390899 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgMwAKCRDorT+BmrEO
+eNx+AKCREaeCZMKamph5wt8YZyh11bFYvQCfVUgSOuHX1E25BetYea4+48F/h4k=
+=x662
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/touch/goodix_touch
+object 2efc088f6730e83d72aaf05dd6ff254cc9d83525
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390899 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgMwAKCRDorT+BmrEO
+eHomAJ4v3AyQh3a03RLC5tLhwnYokoQvDwCeIoABbhDz6RpAtkpoB+DIT7uJzqU=
+=z+0S
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/touch/himax_touch
+object 20a5545a7628fe06e1c1740c395506f8fba3db16
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390900 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNAAKCRDorT+BmrEO
+eK0AAJwOIq6R8Wl2azdW3AUlMhp9LUAZiQCeKnAQhDxinY/nAtryHLc6cTGG+Ho=
+=TWj7
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/touch/novatek_touch
+object bbaeccf80536bb04b95d2988847faff1414cd613
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390900 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNAAKCRDorT+BmrEO
+eKVGAJ9jT9SZbF213u4juldgNl/YmyIfPACdGA0cYDA5+xTMz2GnINs8/A297Hs=
+=vmQE
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/touch/sec_touch
+object 049e941f84f407f1122cbc0ee40424fd12035c13
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390900 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNAAKCRDorT+BmrEO
+eDHCAJ9qg1voxKfgeea0QSSDIL7mKLgOdQCfT5ia1APtdukT1rM0EdkaicR2ZLc=
+=AjXq
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/touch/synaptics_touch
+object 20b90037e7023858ec387cb2a4392f378b88855f
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390900 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNAAKCRDorT+BmrEO
+eDacAJ95UI/74WpIb1WEPW1O3d4X8NmuZQCfW7hXdxYopw4b/XWpS9miPCiuEmE=
+=aPVz
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/uwb-diags
+object 1ce8cd233f5bdc6dc4b13aa0a77b8faad1ea8935
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390900 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNAAKCRDorT+BmrEO
+eGUBAKCEAwTSRhXTb4TYlzmD2BqjrqbpnQCffsDlIXs7vbyEbgHj+rFbBzta6aU=
+=mn9g
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/uwb/qorvo/dw3000
+object 7b4cf503cc2a698e2b60b3deaef5c93520e63255
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390900 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNAAKCRDorT+BmrEO
+eAgNAJwKiMMETY87mUrASKxPPwGewy5ZcACfajI3FuKDYVln6+UOb+PxXN6Ldms=
+=TZU6
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/video/gchips
+object 2aa07e929b0cade51932b9019c5471892668292f
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390900 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNAAKCRDorT+BmrEO
+eFPhAJ9s2fqm8B4bcKGfxj4kQpW/biKMAQCeNWvZd87yg7fnM7UaV+noTT6i3EE=
+=plBk
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/wlan/bcmdhd/bcm4389
+object 2352bec9f59fc63dca495244f8a4170003e7eae9
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390900 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNAAKCRDorT+BmrEO
+eBmHAKCL5Mnl/X8HDSjR48f7WjMO5DP/2gCggbssuWL/BnCojonMTP5W2pGf67E=
+=bkOh
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/wlan/qcom/wcn6740/cnss2
+object 7db872e1fd0b032e16ebdeaa1348b385096e3609
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390900 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNAAKCRDorT+BmrEO
+eLXzAJ0eUPK6KoNX8Jo1CHwe9FSTtEsm1QCffEzXCEMdz+Lme8vD7c3mz8KmfBE=
+=/RcP
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/wlan/qcom/wcn6740/wlan
+object c53b37bab60a24e965521efe3cbdf65b939db467
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390900 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNAAKCRDorT+BmrEO
+eNLmAJoChloHFWeVtkhh+29MkAUOaiB5AwCfZRR6MjcoCgWh6OM94T+mnfPCRlo=
+=GjMx
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/wlan/syna/dhd43752p
+object 53a32f3bdcfad8f990aeb6efeebb5d96a618c8ab
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390900 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNAAKCRDorT+BmrEO
+eEiZAJ9vNAwIfyyhpYMWgI3RQqMGUFxdLgCfV5keaSgNbvOiOtTD2OSJBxzgTkI=
+=/WA1
+-----END PGP SIGNATURE-----
+REPO: kernel/google-modules/wlan/wlan_ptracker
+object eb47c039589fe47fdbb40115e5ac2ff2b89a22e1
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390900 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNAAKCRDorT+BmrEO
+ePfcAJ9D9NwodbjIcrB4GBXObaUJssBzfwCfW4E2gVBjiYExMil1uGtakUfajnw=
+=X+Ah
+-----END PGP SIGNATURE-----
+REPO: kernel/gs
+object 92e94fca2f15010f7ae6dc27c6e1d780337bb63d
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390900 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNAAKCRDorT+BmrEO
+ePemAJ96eB8YTP/HGq60wepZsZ/szbJQNgCaAupaniLeQjG9JGRnjEw0X/TVMlo=
+=F160
+-----END PGP SIGNATURE-----
+REPO: kernel/prebuilts/build-tools
+object 083e34d8c2c4239be4967172427268c267585951
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390901 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNQAKCRDorT+BmrEO
+eEarAJ9PaHjGlxZN1X8tJghvYFAHE0Wj9ACfcp5lY9kzXLkPpk1eCtMQiEbCgQU=
+=pFXK
+-----END PGP SIGNATURE-----
+REPO: platform/build/bazel_common_rules
+object ddd2d82d10e21fb4137d2db3c1b848d6f1832acc
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390900 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNAAKCRDorT+BmrEO
+eOLFAJ0bE91LaRNRjJe8xhFtCo1WOn/a5QCfdf+LF71KvFJIYrJVyaKzjfeOoHw=
+=cXCd
+-----END PGP SIGNATURE-----
+REPO: platform/external/bazel-skylib
+object f1fb8167b4ed64feb494fd1ea6a8a619bbb549de
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390900 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNAAKCRDorT+BmrEO
+eHKgAJwKmdsBYh8uh97h/dPpRyyXkiT+iwCaA6rNKm/DfEj3elSMcC08A/1fxbA=
+=c5U+
+-----END PGP SIGNATURE-----
+REPO: platform/external/stardoc
+object b6ef2c6b6e39087f7396aaeb13c83464dfce4a19
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390900 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNAAKCRDorT+BmrEO
+eIeYAJsHWaNZ3MfPmP+rZwiaOZT54oRbRACfRXcoMdrMX/2mpdwdQkIfD0Y+7ws=
+=fZZ5
+-----END PGP SIGNATURE-----
+REPO: platform/prebuilts/bazel/linux-x86_64
+object 6162318e6458db65f94eed6671e302c3e894b1ac
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390900 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNAAKCRDorT+BmrEO
+eN2RAKCEUDaTWiD147lxYe63j5C2kRXkHQCfR6tkHHCGCT5v1XGmIwVF0lai3PU=
+=f0VN
+-----END PGP SIGNATURE-----
+REPO: platform/prebuilts/boot-artifacts
+object 7e770a1939582658c0240d83836df51139351c06
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390901 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNQAKCRDorT+BmrEO
+eGKaAJ0cHLjR72kk/EY27/U5Zd0Y0GD7+gCfShD2OiQqULut5gvXPhFrTQpvPAc=
+=ARgz
+-----END PGP SIGNATURE-----
+REPO: platform/prebuilts/build-tools
+object f6813860e16b2fa1461a15e7b8a3127dfdee021a
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390901 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNQAKCRDorT+BmrEO
+eIrPAJ9S6SZmnds+whdC3PpgBL/e+h4oMwCfdL7NSj9kiLM/yfSoTVb+8xPAp0g=
+=UvWJ
+-----END PGP SIGNATURE-----
+REPO: platform/prebuilts/clang/host/linux-x86
+object 9f759dee5cdc5f85d076c642a192f6a9232f7058
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390901 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNQAKCRDorT+BmrEO
+eN00AKCCutclFAIqsYQ6Aa2QPMCiLZhPuwCeIbqcC2ylOmq5BPHT1IxKrxyQ4z8=
+=mglC
+-----END PGP SIGNATURE-----
+REPO: platform/prebuilts/gas/linux-x86
+object 592150fc8ae9f48f2e73f390961f32ca6f5f6a9f
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390901 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNQAKCRDorT+BmrEO
+eHPSAJ0ctMbVFQ7xMPCqKlbDxA2sM93UHgCbB4fpf4ywpCBix+pt5kUU6Q1H1Z8=
+=oOiB
+-----END PGP SIGNATURE-----
+REPO: platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8
+object 007101a451907c5369db5002ddf7b14dcefb7864
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390901 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNQAKCRDorT+BmrEO
+eLukAKCJX4HegKfPar1GJEbraKuqjojnLgCfVbqzcqQbxb4zGQ7HjkMtAFYZ1BY=
+=voER
+-----END PGP SIGNATURE-----
+REPO: platform/prebuilts/jdk/jdk11
+object 2a2fb389233fcc4027625f7642087a09d6014fdf
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390901 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNQAKCRDorT+BmrEO
+eMUtAJ9w6G5aQmY/0u97tg7/Upaj2LrmrQCeOC/Di0+Ng9Ddg2u0biHngbUySKo=
+=WS3V
+-----END PGP SIGNATURE-----
+REPO: platform/prebuilts/misc
+object e8ec5783e575402d96260527de544aa16cd87131
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390901 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNQAKCRDorT+BmrEO
+eKMfAJ9R7g8E0othoz00nenzcCfOj8EpGgCfeWWNAkvWbTbFzdRR9LhPg1vsPQM=
+=pa0h
+-----END PGP SIGNATURE-----
+REPO: platform/system/tools/mkbootimg
+object 2208a03d874255af1e4eaf6cf7c156fe1dc98943
+type commit
+tag android-15.0.0_r0.1
+tagger The Android Open Source Project <initial-contribution@android.com> 1725390900 -0700
+
+Android 15.0.0 release 0.1
+-----BEGIN PGP SIGNATURE-----
+
+iF0EABECAB0WIQRDQNE1cO+UXoOBCWTorT+BmrEOeAUCZtdgNAAKCRDorT+BmrEO
+eAtRAJwMB89NUu7Njr6bBc412xay+x8c0QCfahLIt7TB8xnUY+VlwuQ+S+uA81I=
+=kcnt
+-----END PGP SIGNATURE-----
